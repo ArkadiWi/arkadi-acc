@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arkadi-acc
+- 👋 Hi, I’m @arkadi.w
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, MySql, Django, 
 - 💞️ I’m looking to collaborate 
